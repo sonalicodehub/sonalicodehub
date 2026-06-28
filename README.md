@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Building+Projects+%26+Learning+Every+Day!" /> </p>
 
 ## 💫 About Me:
-🚀 AI & ML Student<br> 🐉Python Developer <br>💻Tech Enthusiast<br>📚Learning Data Science,Deep Learning & Generative AI<br>🤖Building real-world projects and improving everyday<br>Open to collaboration and continuous learning <br><b>"Code,Learn,Build,Repeat"</b>
+🚀 AI & ML Student<br> 🐉Python Developer <br>💻Tech Enthusiast<br>📚Learning Data Science,Deep Learning & Generative AI<br>🤖Building real-world projects and improving everyday<br>Open to collaboration and continuous learning <br><b>"Code, Learn, Build, Repeat"</b>
 
 
 ## 🌐 Connect with me:
