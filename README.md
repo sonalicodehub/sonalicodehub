@@ -6,8 +6,15 @@
 🚀 AI & ML Student<br> 🐉Python Developer <br>💻Tech Enthusiast<br>📚Learning Data Science,Deep Learning & Generative AI<br>🤖Building real-world projects and improving everyday<br>Open to collaboration and continuous learning <br><b>"Code,Learn,Build,Repeat"</b>
 
 
-## 🌐 Socials:
-<p> <img src="https://skillicons.dev/icons?i=linkedin" /> </p>https://www.linkedin.com/in/sonali-gupta-410054371/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BzZj0xfsxROW1EZQchrpyaQ%3D%3D [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sonalicodehub)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:techsonaligupta@gmail.com) 
+## 🌐 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/sonali-gupta-410054371" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+</p>
 
 # 💻 Tech Stack:
 # Languages
@@ -18,16 +25,13 @@
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" /> </p>
 
-# Currently Learning
+### 📖 Currently Learning
 
-<p> <img src="https://skillicons.dev/icons?i=tensorflow,Numpy,Pandas,Matplotlib,Scikit-learn" /> </p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://skillicons.dev/icons?i=numpy" />
-  <img src="https://skillicons.dev/icons?i=pandas" />
-</p>
-
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 🎯 Generative AI
+- 📊 Data Science
+- ☁️ AI Deployment
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sonalicodehub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sonalicodehub&theme=dark&hide_border=false)<br/>
