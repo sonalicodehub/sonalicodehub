@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]https://www.linkedin.com/in/sonali-gupta-410054371/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BzZj0xfsxROW1EZQchrpyaQ%3D%3D [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sonalicodehub)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:techsonaligupta@gmail.com) 
+<p> <img src="https://skillicons.dev/icons?i=linkedin" /> </p>https://www.linkedin.com/in/sonali-gupta-410054371/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BzZj0xfsxROW1EZQchrpyaQ%3D%3D [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sonalicodehub)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:techsonaligupta@gmail.com) 
 
 # 💻 Tech Stack:
 # Languages
@@ -21,6 +21,12 @@
 # Currently Learning
 
 <p> <img src="https://skillicons.dev/icons?i=tensorflow,Numpy,Pandas,Matplotlib,Scikit-learn" /> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://skillicons.dev/icons?i=pandas" />
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sonalicodehub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
