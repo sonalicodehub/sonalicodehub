@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sonali</h1>
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Building+Projects+%26+Learning+Every+Day!" /> </p>
-#💫 About Me:
+
+## 💫 About Me:
 🚀 AI & ML Student<br> 🐉Python Developer <br>💻Tech Enthusiast<br>📚Learning Data Science,Deep Learning & Generative AI<br>🤖Building real-world projects and improving everyday<br>Open to collaboration and continuous learning <br><b>"Code,Learn,Build,Repeat"</b>
 
 
@@ -19,11 +20,8 @@
 
 # Currently Learning
 
-<p> <img src="https://skillicons.dev/icons?i=tensorflow" /> </p>
-<p> <img src="https://skillicons.dev/icons?i=NumPy" /> </p>
-<p> <img src="https://skillicons.dev/icons?i=Pandas" /> </p>
-<p> <img src="https://skillicons.dev/icons?i=Matplotlib" /> </p>
-<p> <img src="https://skillicons.dev/icons?i=Scikit-learn" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=tensorflow,Numpy,Pandas,Matplotlib,Scikit-learn" /> </p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sonalicodehub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sonalicodehub&theme=dark&hide_border=false)<br/>
