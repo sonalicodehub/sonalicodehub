@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/sonali-gupta-410054371" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
-<a href="https://www.github.com/in/sonalicodehub" target="blank">
+<a href="https://github.com/account" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 <a href="mailto:YOUR_EMAIL@gmail.com">
