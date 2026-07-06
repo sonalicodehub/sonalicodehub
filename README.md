@@ -22,7 +22,7 @@
 # 💻 Tech Stack:
 # Languages
 
-<p> <img src="https://skillicons.dev/icons?i=python,html,css,mysql" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=python,html,css,mysql,c,java" /> </p>
 
 # Tools & Technologies
 
