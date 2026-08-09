@@ -46,7 +46,9 @@
 
 [![🐍 Snake_Game](https://img.shields.io/badge/🐍_Snake_Game-green?style=for-the-badge)](https://github.com/sonalicodehub/Snake_game)
 
-[![ QRCode_Generator](https://img.shields.io/badge/☑️QRCode_Generator-blue?style=for-the-badge)](https://github.com/sonalicodehub/Snake_game)
+[![ QRCode_Generator](https://img.shields.io/badge/☑️QRCode_Generator-blue?style=for-the-badge)](https://github.com/sonalicodehub/QRCode)
+
+[![🎮🎮Rock-Paper-Scissor](https://img.shields.io/badge/🎮Rock-Paper-Scissor?style=for-the-badge)](https://github.com/sonalicodehub/Rock-Paper-Scissor)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sonalicodehub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sonalicodehub&theme=dark&hide_border=false)<br/>
