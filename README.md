@@ -38,13 +38,13 @@
 
   ## 🚀 Project Showcase
 
-[![🎮 Quiz Game](https://img.shields.io/badge/🎮_Quiz_Game-Streamlit-blue?style=for-the-badge)](https://github.com/sonalicodehub/quiz_game_app)
+[![🎮 Quiz Game](https://img.shields.io/badge/🎮_Quiz_Game-Streamlit-blue?style=for-the-badge)](https://github.com/sonalicodehub/Quiz_Game)
 
-[![📚 AI Study Assistant](https://img.shields.io/badge/📚_AI_Study_Assistant-purple?style=for-the-badge)](https://github.com/sonalicodehub/ai-study-assistant)
+[![✨Python_Turtle_Animation](https://img.shields.io/badge/✨Python_Turtle_Animation-purple?style=for-the-badge)](https://github.com/sonalicodehub/Python_Turtle_Animation)
 
 [![🧮 Calculator](https://img.shields.io/badge/🧮_Calculator-orange?style=for-the-badge)](https://github.com/sonalicodehub/Calculator)
 
-[![🐍 Snake_Game](https://img.shields.io/badge/🐍_Snake_Game-green?style=for-the-badge)](https://github.com/sonalicodehub/Snake_game)
+[![🐍 Snake_Game](https://img.shields.io/badge/🐍_Snake_Game-green?style=for-the-badge)](https://github.com/sonalicodehub/Snake_game.py)
 
 [![ QRCode_Generator](https://img.shields.io/badge/☑️QRCode_Generator-blue?style=for-the-badge)](https://github.com/sonalicodehub/QRCode)
 
