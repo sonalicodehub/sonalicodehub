@@ -36,7 +36,7 @@
 - 📊 Data Science
 - ☁️ AI Deployment
 
-  ## 🚀 Project Showcase
+## 🚀 Project Showcase
 
 [![🎮 Quiz Game](https://img.shields.io/badge/🎮_Quiz_Game-Streamlit-blue?style=for-the-badge)](https://github.com/sonalicodehub/Quiz_Game)
 
