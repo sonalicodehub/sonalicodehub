@@ -35,6 +35,18 @@
 - 🎯 Generative AI
 - 📊 Data Science
 - ☁️ AI Deployment
+
+  ## 🚀 Project Showcase
+
+[![🎮 Quiz Game](https://img.shields.io/badge/🎮_Quiz_Game-Streamlit-blue?style=for-the-badge)](https://github.com/sonalicodehub/quiz_game_app)
+
+[![📚 AI Study Assistant](https://img.shields.io/badge/📚_AI_Study_Assistant-purple?style=for-the-badge)](https://github.com/sonalicodehub/ai-study-assistant)
+
+[![🧮 Calculator](https://img.shields.io/badge/🧮_Calculator-orange?style=for-the-badge)](https://github.com/sonalicodehub/Calculator)
+
+[![🐍 Snake_Game](https://img.shields.io/badge/🐍_Snake_Game-green?style=for-the-badge)](https://github.com/sonalicodehub/Snake_game)
+
+[![ QRCode_Generator](https://img.shields.io/badge/☑️QRCode_Generator-blue?style=for-the-badge)](https://github.com/sonalicodehub/Snake_game)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sonalicodehub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sonalicodehub&theme=dark&hide_border=false)<br/>
